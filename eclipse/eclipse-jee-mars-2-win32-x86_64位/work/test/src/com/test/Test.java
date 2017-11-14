@@ -1,8 +1,7 @@
 package com.test;
 
 public class Test {
-	private void mian() {
-		// TODO Auto-generated method stub
+	private static void mian(String[] args) {
 		System.out.println("测试");
 	}
 }
